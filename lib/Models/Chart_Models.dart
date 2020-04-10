@@ -19,3 +19,6 @@ final List<ChartModels> items = [
   ChartModels(name: 'Lilliana', message: 'et excepturi exercitationem', time: '12:12', profileUrl: 'https://s3.amazonaws.com/uifaces/faces/twitter/ssbb_me/128.jpg'),
   ChartModels(name: 'Emmanuelle', message: 'nemo velit atque', time: '12:12', profileUrl: 'https://s3.amazonaws.com/uifaces/faces/twitter/blakehawksworth/128.jpg'),
 ];
+
+
+///
