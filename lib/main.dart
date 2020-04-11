@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       title: 'Telegram',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primaryColor: Color(0xFF5682a3),
+        primaryColor: Colors.yellow,
         accentColor: Color(0xFFe7ebf8),
         backgroundColor: Colors.white,
       ),
