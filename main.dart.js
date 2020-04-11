@@ -39853,7 +39853,7 @@ Y.nr.prototype={
 aI:function(){return new Y.zT(C.o)}}
 Y.zT.prototype={
 H:function(a){var t,s,r=null,q=L.je("Rahul Chandra",r)
-q=H.b([new T.qc(new U.nT(M.a0h(r,r,new L.mT("assets/rahul_new.jpg",r,r)),r),q,L.je("1rahulchandra1@gmail.com",r),r),Y.hc(C.tX,new Y.Nu(),"New Group"),Y.hc(C.u_,new Y.Nv(),"New Secret Chat"),Y.hc(C.nJ,new Y.Nw(),"New Channel"),Y.hc(C.tY,new Y.Nx(),'Contact"s'),Y.hc(C.tR,new Y.Ny(),"Calls"),Y.hc(C.nJ,new Y.Nz(),"Saved Messages"),Y.hc(C.u0,new Y.NA(),"Settings"),Z.Un(),Y.hc(C.tZ,new Y.NB(),"Invite Friends"),Y.hc(C.u1,new Y.NC(),"Telegram FAQ")],u.E)
+q=H.b([new T.qc(new U.nT(M.a0h(r,r,new L.mT("assets/rahul_new.jpg",r,r)),r),q,L.je("1rahulchandra1@gmail.com",r),r),Y.hc(C.tX,new Y.Nu(),"New Group"),Y.hc(C.u_,new Y.Nv(),"New Secret Chat"),Y.hc(C.nJ,new Y.Nw(),"New Channel"),Y.hc(C.tY,new Y.Nx(),'Contact"s'),Y.hc(C.tS,new Y.Ny(),"Calls"),Y.hc(C.nJ,new Y.Nz(),"Saved Messages"),Y.hc(C.u0,new Y.NA(),"Settings"),Z.Un(),Y.hc(C.tZ,new Y.NB(),"Invite Friends"),Y.hc(C.u1,new Y.NC(),"Telegram FAQ")],u.E)
 t=P.bk([null,0],u.qI,u.S)
 s=q.length
 return new Z.uL(new B.oh(new G.L4(!0,!0,!0,q,t),r,C.u,!1,r,!0,C.my,!1,r,s,C.a3,r),r)}}
@@ -39892,7 +39892,7 @@ aI:function(){return new A.Af(C.o)}}
 A.Af.prototype={
 H:function(a){var t=null,s=L.je("Telegram",t),r=H.b([new T.dt(new V.aH(8,8,8,8),L.vq(C.nK,t,t),t)],u.E)
 $.TF()
-return new M.pm(new E.mQ(s,r,new P.V(1/0,56),t),B.a_q(new A.O7(),9,new A.O8()),E.Uy(new P.H(4284852704),L.vq(C.tS,t,t),!1,new A.O9()),new Y.nr(t),t)}}
+return new M.pm(new E.mQ(s,r,new P.V(1/0,56),t),B.a_q(new A.O7(),9,new A.O8()),E.Uy(new P.H(4284852704),L.vq(C.tR,t,t),!1,new A.O9()),new Y.nr(t),t)}}
 A.O7.prototype={
 $2:function(a,b){var t=null,s=$.TF(),r=s[b],q=L.je(r.a,A.jh(t,t,t,t,t,t,t,t,t,t,t,t,t,C.bV,t,t,!0,t,t,t,t,t,t))
 return Q.UT(t,new K.u2(new D.iQ(r.d),28,t),t,L.je(s[b].b,A.jh(t,t,t,t,t,t,t,t,t,t,t,t,t,C.y,t,t,!0,t,t,t,t,t,t)),q,L.je(s[b].c,t))}}
@@ -42023,8 +42023,8 @@ C.bo=new T.vn("HeroFlightDirection.pop")
 C.jY=new E.nN("HitTestBehavior.deferToChild")
 C.ba=new E.nN("HitTestBehavior.opaque")
 C.fS=new E.nN("HitTestBehavior.translucent")
-C.tR=new X.cg(57549,!1)
-C.tS=new X.cg(58046,!1)
+C.tR=new X.cg(57520,!1)
+C.tS=new X.cg(57549,!1)
 C.tT=new X.cg(58820,!0)
 C.tU=new X.cg(58821,!1)
 C.tW=new X.cg(58848,!0)
