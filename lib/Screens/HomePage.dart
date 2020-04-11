@@ -28,7 +28,9 @@ class _HomePageState extends State<HomePage> {
           return ListTile(
             leading: CircleAvatar(
               radius: 28,
-              backgroundImage: NetworkImage(items[i].profileUrl),
+              backgroundImage: NetworkImage(
+                items[i].profileUrl,
+              ),
             ),
             title: Text(
               items[i].name,
@@ -53,7 +55,9 @@ class _HomePageState extends State<HomePage> {
         itemCount: items.length,
       ),
       floatingActionButton: FloatingActionButton(
-        child: Icon(Icons.cloud_circle),
+        child: Icon(
+          Icons.call,
+        ),
         backgroundColor: Color(
           0xFF65a9e0,
         ),
