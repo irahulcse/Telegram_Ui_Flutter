@@ -12,8 +12,11 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Telegram'),
+        // title: Text('Telegram'),
         actions: <Widget>[
+          CircleAvatar(
+            
+          ),
           Padding(
             padding: EdgeInsets.all(8.0),
             child: Icon(

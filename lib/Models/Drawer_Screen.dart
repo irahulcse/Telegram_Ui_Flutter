@@ -6,8 +6,8 @@ class DrawerScreen extends StatefulWidget {
 }
 
 class _DrawerScreenState extends State<DrawerScreen> {
-  var rahul =
-      'https://s3.amazonaws.com/uifaces/faces/twitter/themrdave/128.jpg';
+ // var rahul =
+    //  'https://s3.amazonaws.com/uifaces/faces/twitter/themrdave/128.jpg';
   @override
   Widget build(BuildContext context) {
     return Drawer(
